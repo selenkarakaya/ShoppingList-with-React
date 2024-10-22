@@ -8,6 +8,7 @@ I have started to learn React, and this project is a demonstration of my learnin
 
 - **Add Items**: Quickly add new items to the shopping list.
 - **Edit Items**: Modify existing items in the list.
+- **Delete Items**: Remove items from the list when no longer needed.
 - **React Hooks**: Utilizes React hooks like `useState` for managing state.
 - **Local State Management**: Keeps everything managed locally for fast performance.
 
