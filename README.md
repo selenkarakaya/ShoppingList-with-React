@@ -27,7 +27,7 @@ I have started to learn React, and this project is a demonstration of my learnin
 
 ## Demo 🔗
 
-You can check out a live demo of the Shopping List [https://grocerychecklist.netlify.app/](#).
+You can check out a live demo of the Shopping List ([https://grocerychecklist.netlify.app/]).
 
 ## Installation
 
