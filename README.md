@@ -1,7 +1,7 @@
 # Shopping List 📋
 
 ## Overview
-I have started to learn React, and this project is a demonstration of my learning process. It includes components and uses core React hooks like `useState` and `useEffect`. The **Shopping List** app allows users to add, edit, and delete items, providing a simple and interactive experience for managing a shopping list.
+- I have started to learn React, and this project is a demonstration of my learning process. It includes components and uses core React hooks like `useState` and `useEffect`. The **Shopping List** app allows users to add, edit, and delete items, providing a simple and interactive experience for managing a shopping list.
 
 ### Features
 - **Add Items**: Quickly add new items to the shopping list.
